@@ -47,11 +47,11 @@ a {
     rgba(4, 12, 24, 1) 25%
   );
 }
-.gardient__text {
-  background: var(--gardient-text);
+.gradient__text {
+  background: var(--gradient-text);
   background-clip: text;
-  -webkit-background-clop: text;
-  -webkit-text-fil-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .section__padding {
   padding: 4rem 6rem;
